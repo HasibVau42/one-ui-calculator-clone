@@ -11,7 +11,7 @@ A high-fidelity clone of the Samsung One UI Calculator, built with React and Tai
 *   **Theming**: Automatic system theme detection (Dark/Light) with a manual toggle.
 *   **Responsive**: Fluid adaptation to screen resizing and orientation changes.
 
-## Getting Started
+## Getting your-username
 
 ### Prerequisites
 
@@ -22,7 +22,7 @@ A high-fidelity clone of the Samsung One UI Calculator, built with React and Tai
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/your-username/samsung-calculator-clone.git
+    git clone https://github.com/HasibVau42/samsung-calculator-clone.git
     cd samsung-calculator-clone
     ```
 
